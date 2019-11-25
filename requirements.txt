@@ -3,3 +3,6 @@ numpy==1.17.2
 pytorch-transformers==1.0.0
 streamlit==0.49.0
 pytorch==1.3.0
+beautifulsoup4==4.8.1
+tika==1.19
+

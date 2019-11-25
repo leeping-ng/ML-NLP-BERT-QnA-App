@@ -106,3 +106,4 @@ venv.bak/
 *.bin
 *.json
 *.txt
+/model
