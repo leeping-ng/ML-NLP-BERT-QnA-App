@@ -18,3 +18,7 @@ git clone https://github.com/leeping-ng/ML-NLP-BERT-QnA-App.git
 ```
 streamlit run app.py
 ```
+
+### App Interface
+
+<img src='/img/TLDR.png'>
