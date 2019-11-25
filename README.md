@@ -21,4 +21,6 @@ streamlit run app.py
 
 ### App Interface
 
+The following screenshot from the app shows a Q&A about a wiki page for the movie Pulp Fiction.
+
 <img src='/img/TLDR.png'>
